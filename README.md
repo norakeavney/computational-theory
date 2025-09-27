@@ -1,5 +1,7 @@
 # computational-theory
 A Fourth Year Module - Assessment
+Nora Keavney
+G00415845
 
 ## Description
 
